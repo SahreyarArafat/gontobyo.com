@@ -6,7 +6,7 @@ forEach(link => {
     }
 })
 
-console.log(activePage);
+// console.log(activePage);
 
 
 
