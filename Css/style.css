@@ -872,13 +872,13 @@ footer p:last-child a {
         margin: 0px auto 5px;
         padding: 10px 0px;
         text-align: center;
-        overflow: hidden;
     }
     nav ul li:hover {
         background-color: #77bc3f;
     }
     nav ul li a {
         padding: 100% 4px;
+        padding: 0px 0px;
         text-align: center;
         background: transparent;
         color: black;
@@ -1057,13 +1057,12 @@ footer p:last-child a {
         margin: 0px auto 5px;
         padding: 10px 0px;
         text-align: center;
-        overflow: hidden;
     }
     nav ul li:hover {
         background-color: #77bc3f;
     }
     nav ul li a {
-        padding: 100% 4px;
+        padding: 0px 0px;
         text-align: center;
         background: transparent;
         color: black;
